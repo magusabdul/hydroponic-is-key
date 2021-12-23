@@ -3,7 +3,7 @@ const About = {
       return `
         <section class="about" id="about">
             <div class="image">
-                <img src="img/Agus.png" alt="">
+                <img src="icons/layer2.svg" alt="">
             </div>
         
             <div class="content">
