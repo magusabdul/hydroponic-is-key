@@ -157,11 +157,12 @@ const Home = {
               </div>
   
           </div>
-  
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+
       </div>
 
-      <div class="swiper-button-next"></div>
-      <div class="swiper-button-prev"></div>
+      
   
   </section>
   <section class="shop" id="shop">

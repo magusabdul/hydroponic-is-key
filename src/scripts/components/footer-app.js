@@ -16,20 +16,10 @@ class FooterApp extends HTMLElement {
             </div>
 
             <div class="box">
-                <h3>extra links</h3>
-                <a href="#">my account</a>
-                <a href="#">my order</a>
-                <a href="#">my wishlist</a>
-                <a href="#">ask questions</a>
-                <a href="#">terms of use</a>
-                <a href="#">privacy policy</a>
-            </div>
-
-            <div class="box">
                 <h3>contact info</h3>
                 <a href="#"> <i class="fas fa-phone"></i> +62-831-7530-8665 </a>
                 <a href="#"> <i class="fas fa-envelope"></i> magusabdul@gmail.com </a>
-                <a href="#"> <i class="fas fa-map"></i> Bandung, Indonesia - 400104 </a>
+                <a href="#"> <i class="fas fa-map"></i> Ciamis, Indonesia - 46253 </a>
             </div>
 
             <div class="box">
@@ -43,7 +33,7 @@ class FooterApp extends HTMLElement {
 
         </div>
 
-        <div class="credit">created by <span>Gus Abdul</span> | all rights reserved!</div>
+        <div class="credit">created by <span>CSD-106</span> | all rights reserved!</div>
 
     </section>
         `;
