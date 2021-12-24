@@ -45,43 +45,6 @@ const Home = {
 
     </section>
 
-    <section class="category" id="category">
-
-        <h1 class="heading">hydroponics idea!</h1>
-
-        <div class="box-container">
-
-            <div class="box">
-                <img src="images/category-1.jpg" alt="">
-                <h3>bungee jump</h3>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum, id.</p>
-                <a href="#" class="btn">read more</a>
-            </div>
-
-            <div class="box">
-                <img src="images/category-2.jpg" alt="">
-                <h3>zip lines</h3>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum, id.</p>
-                <a href="#" class="btn">read more</a>
-            </div>
-
-            <div class="box">
-                <img src="images/category-3.jpg" alt="">
-                <h3>Canoeing</h3>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum, id.</p>
-                <a href="#" class="btn">read more</a>
-            </div>
-
-            <div class="box">
-                <img src="images/category-4.jpg" alt="">
-                <h3>kayaking</h3>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum, id.</p>
-                <a href="#" class="btn">read more</a>
-            </div>
-
-        </div>
-
-    </section>
     <section class="blogs" id="blogs">
 
       <h1 class="heading"> our daily posts </h1>
@@ -161,8 +124,6 @@ const Home = {
         <div class="swiper-button-prev"></div>
 
       </div>
-
-      
   
   </section>
   <section class="shop" id="shop">
@@ -177,14 +138,12 @@ const Home = {
                   <div class="image">
                       <img src="img/Hydroton Hidroton Jerman Media Tanam Hidroponik Import 1 Liter.jpg" alt="">
                       <div class="icons">
-                          <a href="#" class="fas fa-shopping-cart"></a>
-                          <a href="#" class="fas fa-eye"></a>
-                          <a href="#" class="fas fa-share"></a>
+                          <a href="https://tokopedia.link/uVECIjvAfmb" class="fas fa-shopping-cart"></a>
                       </div>
                   </div>
                   <div class="content">
-                      <h3>survival kits</h3>
-                      <div class="price"> $5.00 - $25.00 </div>
+                      <h3>Hydroton Hidroton Jerman Media Tanam Hidroponik Import 1 Liter</h3>
+                      <div class="price"> Rp17.400 </div>
                       <div class="stars">
                           <i class="fas fa-star"></i>
                           <i class="fas fa-star"></i>
@@ -199,14 +158,12 @@ const Home = {
                   <div class="image">
                       <img src="img/Paket Hidroponik Fullset 18 Lubang.jpg" alt="">
                       <div class="icons">
-                          <a href="#" class="fas fa-shopping-cart"></a>
-                          <a href="#" class="fas fa-eye"></a>
-                          <a href="#" class="fas fa-share"></a>
+                          <a href="https://tokopedia.link/2ZxN76pAfmb" class="fas fa-shopping-cart"></a>
                       </div>
                   </div>
                   <div class="content">
-                      <h3>survival kits</h3>
-                      <div class="price"> $5.00 - $25.00 </div>
+                      <h3>Paket Hidroponik Fullset 18 Lubang</h3>
+                      <div class="price"> Rp449.000 </div>
                       <div class="stars">
                           <i class="fas fa-star"></i>
                           <i class="fas fa-star"></i>
@@ -219,16 +176,14 @@ const Home = {
   
               <div class="swiper-slide slide">
                   <div class="image">
-                      <img src="images/product-3.jpg" alt="">
+                      <img src="img/PAKET PEMULA DENGAN POMPA HIDROPONIK TOWER VERTIKULTUR 16 LUB.jpg" alt="">
                       <div class="icons">
-                          <a href="#" class="fas fa-shopping-cart"></a>
-                          <a href="#" class="fas fa-eye"></a>
-                          <a href="#" class="fas fa-share"></a>
+                          <a href="https://tokopedia.link/q3RPsieAfmb" class="fas fa-shopping-cart"></a>
                       </div>
                   </div>
                   <div class="content">
-                      <h3>survival kits</h3>
-                      <div class="price"> $5.00 - $25.00 </div>
+                      <h3>PAKET PEMULA DENGAN POMPA HIDROPONIK TOWER VERTIKULTUR 16 LUB</h3>
+                      <div class="price"> Rp185.000 </div>
                       <div class="stars">
                           <i class="fas fa-star"></i>
                           <i class="fas fa-star"></i>
@@ -243,14 +198,12 @@ const Home = {
                   <div class="image">
                       <img src="img/Rockwool Cultilene Media Tanam Hidroponik asli Import per slab.jpg" alt="">
                       <div class="icons">
-                          <a href="#" class="fas fa-shopping-cart"></a>
-                          <a href="#" class="fas fa-eye"></a>
-                          <a href="#" class="fas fa-share"></a>
+                          <a href="https://tokopedia.link/ahvTcqlAfmb" class="fas fa-shopping-cart"></a>
                       </div>
                   </div>
                   <div class="content">
-                      <h3>survival kits</h3>
-                      <div class="price"> $5.00 - $25.00 </div>
+                      <h3>Rockwool Cultilene Media Tanam Hidroponik asli Import per slab</h3>
+                      <div class="price"> Rp77.000 </div>
                       <div class="stars">
                           <i class="fas fa-star"></i>
                           <i class="fas fa-star"></i>
@@ -263,16 +216,14 @@ const Home = {
   
               <div class="swiper-slide slide">
                   <div class="image">
-                      <img src="images/product-1.jpg" alt="">
+                      <img src="img/Gully talang kotak hidroponik aquaponik dg tutup atas tanpa lubang.jpg" alt="">
                       <div class="icons">
-                          <a href="#" class="fas fa-shopping-cart"></a>
-                          <a href="#" class="fas fa-eye"></a>
-                          <a href="#" class="fas fa-share"></a>
+                          <a href="https://tokopedia.link/HsCMctWzfmb" class="fas fa-shopping-cart"></a>
                       </div>
                   </div>
                   <div class="content">
-                      <h3>survival kits</h3>
-                      <div class="price"> $5.00 - $25.00 </div>
+                      <h3>Gully talang kotak hidroponik aquaponik dg tutup atas tanpa lubang</h3>
+                      <div class="price"> Rp33.300 </div>
                       <div class="stars">
                           <i class="fas fa-star"></i>
                           <i class="fas fa-star"></i>
@@ -285,16 +236,14 @@ const Home = {
   
               <div class="swiper-slide slide">
                   <div class="image">
-                      <img src="images/product-2.jpg" alt="">
+                      <img src="img/Dutch Bucket Hidroponik 8L, 2 Netpot Hitam 10cm.jpg" alt="">
                       <div class="icons">
-                          <a href="#" class="fas fa-shopping-cart"></a>
-                          <a href="#" class="fas fa-eye"></a>
-                          <a href="#" class="fas fa-share"></a>
+                          <a href="https://tokopedia.link/M52dWb6zfmb" class="fas fa-shopping-cart"></a>
                       </div>
                   </div>
                   <div class="content">
-                      <h3>survival kits</h3>
-                      <div class="price"> $5.00 - $25.00 </div>
+                      <h3>Dutch Bucket Hidroponik 8L, 2 Netpot Hitam 10cm</h3>
+                      <div class="price"> Rp24.000 </div>
                       <div class="stars">
                           <i class="fas fa-star"></i>
                           <i class="fas fa-star"></i>
